@@ -17,25 +17,29 @@
 <br />
 
 ## Solutions provided in the project
-**1. Responsive Grid Layout with CSS Grid** My code snippet demonstrates the ability to create responsive layouts using CSS Grid. This layout adapts to different screen sizes, which is crucial in modern web design.
+**1. Responsive Flexbox Layout** My code snippet demonstrates the ability to create responsive layouts using Flexbox. This layout adapts to different screen sizes, which is crucial in modern web design.
+        .header__container-1 {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 30px;
+        }
+        
+        .header__nav {
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        .nav__item-list {
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        .nav__item {
+            margin: 3px;
+            padding: 6px 3px;
+            font-size: 0.7em;
+        }
 
-    .header__container-2 {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 20px;
-      align-items: center;
-      padding: 50px 0;
-    }
-
-    .header__description {
-      grid-column: span 2;
-    }
-
-    .header__img {
-      justify-self: center;
-      max-width: 100%;
-      height: auto;
-    }
 
 **2. Interactive Transitions and CSS Animations** My code illustrates adding interactive transitions and animations to enhance user interaction. The example shows a button animation.
 
