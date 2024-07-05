@@ -19,23 +19,23 @@
 ## Solutions provided in the project
 1. **Responsive Grid Layout with CSS Grid** My code snippet demonstrates the ability to create responsive layouts using CSS Grid. This layout adapts to different screen sizes, which is crucial in modern web design.
 
- .header__container-2 {
+  .header__container-2 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
     align-items: center;
     padding: 50px 0;
- }
+  }
 
- .header__description {
+  .header__description {
     grid-column: span 2;
- }
+  }
 
- .header__img {
+  .header__img {
     justify-self: center;
     max-width: 100%;
     height: auto;
- }
+  }
 
 **2. Interactive Transitions and CSS Animations** My code illustrates adding interactive transitions and animations to enhance user interaction. The example shows a button animation.
 
