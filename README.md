@@ -3,7 +3,7 @@
 ![ a main page screenshot](./images/screen2.png)
 <br />
 
-## :star: Live Deployment: (https://katarzynadworak.github.io/online-shop/)
+## :star: Live Deployment: (https://katarzynadworak.github.io/modern-web-design/)
 <br />
 
 ## Main goal of my work was to:
