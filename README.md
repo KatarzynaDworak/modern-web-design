@@ -108,6 +108,9 @@
 
 ## If you're looking for a fully responsive project, I invite you to check out my other project here: [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
 
+<br />
+<br />
+
 ## 🛠️ Languages and Tools used: 
 
 
