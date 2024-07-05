@@ -106,7 +106,7 @@
 <br />
 <br />
 
-## Are you looking for fully responsive project. Please check my next project [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
+## If you're looking for a fully responsive project, I invite you to check out my other project here: [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
 
 ## 🛠️ Languages and Tools used: 
 
