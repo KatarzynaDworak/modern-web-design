@@ -133,4 +133,4 @@
 <br />
 
 ### Thanks
-To Colorlib [colorlib.com](https://colorlib.com) for free templates.
+To my Mentor - devmentor.pl – for creating the task and for the code review.
