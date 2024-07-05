@@ -1,6 +1,6 @@
 # Thanks for viewing my Project ✨
 
-![ a main page screenshot](./images/screen.png)
+![ a main page screenshot](./images/screen2.png)
 <br />
 
 ## :star: Live Deployment: (https://katarzynadworak.github.io/online-shop/)
