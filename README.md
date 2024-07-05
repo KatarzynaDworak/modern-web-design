@@ -102,7 +102,7 @@
 <br />
 <br />
 
-## Responsywny projekt? <LINK>
+## Are you looking for fully responsive project. Please check my next project [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
 
 ## 🛠️ Languages and Tools used: 
 
