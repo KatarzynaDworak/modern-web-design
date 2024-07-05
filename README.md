@@ -39,65 +39,65 @@
 
 **2. Interactive Transitions and CSS Animations** My code illustrates adding interactive transitions and animations to enhance user interaction. The example shows a button animation.
 
- .header__btn {
-    background-color: #59fea6;
-    color: white;
-    border: 0;
-    border-radius: 7px;
-    width: 170px;
-    padding: 15px 10px;
-    font-size: 0.7em;
-    transition: background-color 0.3s, transform 0.3s;
- }
-
- .header__btn:hover {
-    background-color: #45c58b;
-    transform: scale(1.05);
- }
+     .header__btn {
+        background-color: #59fea6;
+        color: white;
+        border: 0;
+        border-radius: 7px;
+        width: 170px;
+        padding: 15px 10px;
+        font-size: 0.7em;
+        transition: background-color 0.3s, transform 0.3s;
+     }
+    
+     .header__btn:hover {
+        background-color: #45c58b;
+        transform: scale(1.05);
+     }
 
 **3. Customization and Modularity** My code snippet shows how to enable easy customization of a template by users through CSS variables and modular code.
 
- :root {
-    --primary-color: #59fea6;
-    --secondary-color: #58D5F7;
-    --background-color: #F9FAFA;
-    --text-color: #464646;
- }
-
- .header {
-    background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
-    color: var(--text-color);
- }
-
- .header__btn {
-    background-color: var(--primary-color);
-    color: white;
- }
+     :root {
+        --primary-color: #59fea6;
+        --secondary-color: #58D5F7;
+        --background-color: #F9FAFA;
+        --text-color: #464646;
+     }
+    
+     .header {
+        background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+        color: var(--text-color);
+     }
+    
+     .header__btn {
+        background-color: var(--primary-color);
+        color: white;
+     }
 
 **4. Advanced Use of Flexbox for Page Layouts** The code snippet demonstrates advanced use of Flexbox to create flexible and well-organized page layouts.
 
- .team__members {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
- }
-
- .team__member {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
- }
-
- .team__members--icons {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
- }
+     .team__members {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+     }
+    
+     .team__member {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+     }
+    
+     .team__members--icons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+     }
 
 <br />
 <br />
