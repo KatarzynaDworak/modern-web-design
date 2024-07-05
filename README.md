@@ -15,6 +15,7 @@
 
 ## Solutions provided in the project
 1. Tło w górnej części strony to gradient: background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+2. Jeśli chcesz dokładnie odwzorować położenie poszczególnych elementów, możesz użyć rozszerzenia do Chrome o nazwie PerfectPixel. Pozwoli Ci ono osadzić przedstawiony wyżej plik poglądowy (lokalizacja: ./assets/demo.png) jako tło dla tworzonej strony.
 
 <br />
 <br />
