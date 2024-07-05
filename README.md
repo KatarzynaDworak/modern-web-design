@@ -7,10 +7,15 @@
 <br />
 
 ## Main goal of my work was to:
-- code **Responsive Web Design (RWD)** site 📱
-- do it in a way that it **looks decent on mobiles, tablets and desktops** 🖥️
-- use **semantic HTML** (BEM) 📝
-- make project **as readable as it is possible** (clean code, many directories, BEM) 📖
+- Develop a **Visually Appealing Template**: Create a high-quality, premium-looking template suitable for a wide range of web projects, focusing on aesthetics and modern design principles.
+- ?? Ensure **Full Responsiveness**: Implement a fully responsive design that looks great on any device, including smartphones, tablets, laptops, and desktops.
+Facilitate Easy Customization:
+- Provide a **highly customizable template**, allowing users to easily change colors, images, and sections to suit their specific needs.
+- Incorporate **Smooth User Interactions**: Utilize CSS transitions and animations to enhance user interactions, ensuring a smooth and engaging experience. Utilize Clean and Organized Code:
+- Follow **the BEM (Block Element Modifier) methodology for writing clean, modular, and maintainable HTML and CSS code**.
+- Apply **Modern Design Techniques**: Use modern design techniques such as radial gradients, shadows, and flexible grid layouts to create an attractive and functional interface.
+- Ensure **Cross-Browser Compatibility**: Implement CSS properties and techniques that are compatible across different browsers, ensuring a consistent user experience.
+- **Integrate External Fonts and Icons**: Incorporate Google Fonts and custom icons to enhance the visual appeal and readability of the template.
 <br />
 
 ## Solutions provided in the project
