@@ -5,6 +5,7 @@
 
 ## :star: Live Deployment: (https://katarzynadworak.github.io/modern-web-design/)
 <br />
+
 ## If you're looking for a fully responsive project, I invite you to check out my other project here: [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
 
 <br />
