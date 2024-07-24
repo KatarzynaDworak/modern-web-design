@@ -6,6 +6,10 @@
 ## :star: Live Deployment: (https://katarzynadworak.github.io/modern-web-design/)
 <br />
 
+## If you're looking for a fully responsive project, I invite you to check out my other project here: [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
+
+<br />
+
 ## Main goal of my work was to:
 - Develop a **Visually Appealing Template**: Create a high-quality, premium-looking template suitable for a wide range of web projects, focusing on aesthetics and modern design principles.
 - Provide a **highly customizable template**, allowing users to easily change colors, images, and sections to suit their specific needs.
@@ -106,11 +110,6 @@
 <br />
 <br />
 
-## If you're looking for a fully responsive project, I invite you to check out my other project here: [rwd-website-project](https://github.com/KatarzynaDworak/rwd-website-project)
-
-<br />
-<br />
-
 ## 🛠️ Languages and Tools used: 
 
 
@@ -131,13 +130,15 @@
 <br />
 <br />
 
-## :blue_heart:  You can find me on:
-<br/>
+## :blue_heart:  You can find me on: 
+<br />
 
-[<img align="left" alt="Mateusz Sowa LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/katarzynadworakk/)
+[<img align="left" alt="Katarzyna Dworak LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/katarzynadworakk/)
 
- 
+<br /> 
 <br />
 
 ### Thanks
-To my Mentor - devmentor.pl – for creating the task and for the code review.
+To my Mentor - [devmentor.pl](https://devmentor.pl/) – for creating the task and for the code review.
+
+If you have any questions feel free to get in touch with me (contact in the [profile readme](https://github.com/katarzynadworak)).
